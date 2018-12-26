@@ -1,5 +1,10 @@
+# Too big datasets for assignment
+kaggle_medium/
 2008.csv.bz2
 movie_reviews_train.csv
+train.json
+test.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
