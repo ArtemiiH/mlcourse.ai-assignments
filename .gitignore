@@ -4,6 +4,7 @@ kaggle_medium/
 movie_reviews_train.csv
 train.json
 test.json
+data/faces/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
